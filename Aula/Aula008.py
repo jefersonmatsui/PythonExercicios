@@ -46,8 +46,10 @@ num = random.randint(1, 10)
 print(num)
 
 # PyPI - the Python Package Index
-# lâmpada vermelha package
+# lâmpada vermelha install package
 import emoji
 print(emoji.emojize('Olá, Mundo :earth_americas:', use_aliases=True))
 
-
+# modos que estão instalados
+# Settings > Project > Project Interpreter
+# Adicinar mais só clicar no + e - para retirar
